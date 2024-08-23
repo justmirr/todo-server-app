@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "todoText": "Gym",
+    "completed": true
+  },
+  {
+    "todoText": "Project Deadline",
+    "completed": false
+  }
+]
